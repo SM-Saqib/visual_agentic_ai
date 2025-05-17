@@ -20,3 +20,12 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+.env
+frontend_command.txt
+backend/vector_search/data/pregnancy_questions_and_answers.json
+backend/vector_search/data/questions_and_answers.json
+backend/vector_search/data/questions.txt
+frontend/package-lock.json
+frontend.zip
+backend/.gitignore
+frontend/my-react-app/.gitignore
